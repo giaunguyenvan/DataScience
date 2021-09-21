@@ -1,0 +1,9 @@
+Getting To Know Your Data
+
+Tính giá trị trung bình: AVERAGE()
+Tính giá trị ở giữa tập hợp: MEDIAN()
+Giá trị xuất hiện nhiều nhất: MODE()
+Hàm tính phương sai của toàn bộ tập hợp: VARP()
+Hàm tính độ lệch chuẩn của toàn bộ tập hợp: STDEVP()
+Tính tứ phân vị của một tập hợp: QUARTILE(Data, thứ tự phân vị %1,2,3,4% )
+Tính tương đương chuẩn hóa của một biến ngẫu nhiên %Tính giá trị Z_core =(giá trị - trung bình)/độ lệch chuẩn% : STANDARDIZE(Giá trị, TB, độ lệch chuẩn)
